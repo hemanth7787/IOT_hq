@@ -1,4 +1,4 @@
-# Flask-IOT-map
+# Flask-IOT-hq
 
 A python(flask) IOT server implementation.
 
