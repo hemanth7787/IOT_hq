@@ -1,5 +1,15 @@
-Flask==0.10.1
-peewee==2.8.0
+flask
+flask-login
+flask-openid
+flask-mail
+flask-sqlalchemy
+sqlalchemy-migrate
+flask-whooshalchemy
+flask-wtf
+flask-babel
+guess_language
+flipflop
+coverage
 
 # Used only for debugging
 #ipdb==0.8.1
