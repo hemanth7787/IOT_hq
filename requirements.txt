@@ -1,6 +1,0 @@
-Flask==0.10.1
-peewee==2.8.0
-
-# Used only for debugging
-#ipdb==0.8.1
-#ipython==4.0.3
