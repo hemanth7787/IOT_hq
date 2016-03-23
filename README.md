@@ -1,4 +1,4 @@
-# Flask-IOT-hq
+# Django-IOT-hq
 
 A python(flask) IOT server implementation.
 
